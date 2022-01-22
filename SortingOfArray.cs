@@ -4,7 +4,7 @@ namespace Project
 {
     class SortingOfArray
     {
-        static void Main()
+        static void Main(string[] args)
         {
 
             // Creating an Array

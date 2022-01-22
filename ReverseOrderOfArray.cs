@@ -4,7 +4,7 @@ namespace Project
 {
     class ReverseOrderOfArray
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             // Creating an Loop
             int[] arr = { 54, 86, 12, 33 };

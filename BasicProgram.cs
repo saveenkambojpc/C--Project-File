@@ -4,7 +4,7 @@ namespace Project
 {
     class BasicProgram
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Basic Program of C#");
         }
